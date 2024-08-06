@@ -5,11 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Computer+Science+Student;Frontend+Developer;;Always+learning+new+things"></a>
 </p>
 
-<p align="center">
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  <img align="center" alt="GIF" src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" width="320" height="320" />
-</p>
-
  # My Accounts 📧
 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rizwanbhavnagri/)&nbsp;[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" width="3.5%"/>](mailto:rizwan.bhavnagri0411@gmail.com)  &nbsp;

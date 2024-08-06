@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedrizwan4&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedrizwan4" /> </p>
 
-- 📝 I regularly write articles on [rizwanbhavnagri.hashnode.dev](rizwanbhavnagri.hashnode.dev)
+- 📝 I regularly write articles on [rizwanbhavnagri.hashnode.dev](https://rizwanbhavnagri.hashnode.dev/)
 
 - 📫 How to reach me **rizwan.bhavnagri0411@gmail.com**
 

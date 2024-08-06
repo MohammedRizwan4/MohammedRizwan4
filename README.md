@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [rizwanbhavnagri.hashnode.dev](https://rizwanbhavnagri.hashnode.dev/)
 
-- 📝 I regularly write articles on [geeksforgeeks.org/user/rizwanvictory](https://www.geeksforgeeks.org/user/rizwanvictory)
+- 📝 and i write here also [geeksforgeeks.org/user/rizwanvictory](https://www.geeksforgeeks.org/user/rizwanvictory)
 - 
 - 📫 How to reach me **rizwan.bhavnagri0411@gmail.com**
 

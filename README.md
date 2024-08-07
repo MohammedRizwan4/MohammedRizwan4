@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on [rizwanbhavnagri.hashnode.dev](https://rizwanbhavnagri.hashnode.dev/)
 
 - 📝 and i write here also [geeksforgeeks.org/user/rizwanvictory](https://www.geeksforgeeks.org/user/rizwanvictory)
-- 
+
 - 📫 How to reach me **rizwan.bhavnagri0411@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
